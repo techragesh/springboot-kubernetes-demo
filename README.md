@@ -38,7 +38,9 @@ I used Dockerfile for creating an image of this application.
 
 I am going to explain only how can we deploy this application in k8s through skaffold.
 
-### Architecture
+### Diagram
+
+![springbootk8s-1](springbootk8s-1.png)
 
 
 ### How Skaffold deploy the application in k8s
